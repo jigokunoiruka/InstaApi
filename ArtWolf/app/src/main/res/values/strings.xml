@@ -1,0 +1,336 @@
+<resources>
+    <string name="app_name">ART WOLF</string>
+    <string name="rule"><pre><code>&lt;small&gt;In this game, everyone will be given&lt;font color=&quot;RED&quot;&gt; THE THEME and THE CATEGORY OF THEME&lt;/font&gt;.&lt;br/&gt;However, one of you &lt;font color=&quot;RED&quot;&gt;won\'t get THE THEME&lt;/font&gt;. He/She is the &lt;font color=&quot;RED&quot;&gt;WOLF&lt;/font&gt;.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;First,&lt;br/&gt;you will draw a pic of THE THEME &lt;font color=&quot;RED&quot;&gt;in ONE STROKE&lt;/font&gt;.&lt;br/&gt;Remenber, you &lt;font color=&quot;RED&quot;&gt;MUST NOT MAKE THE WOLF UNDERSTAND&lt;/font&gt; what is THE THEME.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Next, you will discuss about the pic you drew. In this time, you should discuss about &lt;font color=&quot;RED&quot;&gt;WHO&lt;/font&gt; or &lt;font color=&quot;RED&quot;&gt;WHAT&lt;/font&gt; or &lt;font color=&quot;RED&quot;&gt;WHY&lt;/font&gt; that stroke was drawn and should throw the wolf off balance.&lt;br/&gt;Remenber, you &lt;font color=&quot;RED&quot;&gt;MUST NOT MAKE THE WOLF UNDERSTAND&lt;/font&gt; what is THE THEME.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Finally, you\'ll &lt;font color=&quot;RED&quot;&gt;VOTE&lt;/font&gt;. Point your finger at the person, must be the wolf, all at once.&lt;br/&gt;&lt;br/&gt;According to result, &lt;font color=&quot;RED&quot;&gt;if the wolf didn\'t gain the largest number of votes&lt;/font&gt;, the wolf would win alone.&lt;br/&gt;&lt;br/&gt;If the wolf gained the largest number of votes, &lt;font color=&quot;RED&quot;&gt;GREAT REVERSAL CHANCE&lt;/font&gt; will start.&lt;br/&gt;&lt;br/&gt;The wolf can declare the word which must be THE THEME.&lt;br/&gt;&lt;font color=&quot;RED&quot;&gt;If it\'s same as THE THEME&lt;/font&gt;, the wolf would win alone.&lt;br/&gt;&lt;font color=&quot;RED&quot;&gt;If it\'s incorrect&lt;/font&gt;, everyone except the wolf would win.&lt;/small&gt;</code></pre></string>
+    <string name="ruleTitle">How To Play</string>
+    <string name="numOfPeople">Number Of Player</string>
+    <string name="drawingTime">Drawing Time</string>
+    <string name="checkPlayer" formatted="false">Are You %s?</string>
+    <string name="tellToPlayer" formatted="false">The Theme Is %s.\n\nThe Category is %s.</string>
+    <string name="tellToWolf" formatted="false">You Are The WOLF\n\nThe Category is %s</string>
+    <string name="disscussionTime">Discussion Time</string>
+    <string name="disscussionExplain">Everyone finished drawing their picture. So please start to discuss</string>
+    <string name="timeOut">Time Out</string>
+    <string name="timeOutExplain">Time Is Up!\nNow, please point your finger at the person you guess the wolf all at once.\n\nIf more than 2 gain the largest number of votes, vote again please.\nEven if they gain same number of votes, THE WOLF WOULD WIN.\n\nEven the wolf gain largest number of votes, if he/she could answer the theme, THE WOLF WOULD WIN </string>
+    <string name="checkTheAnswer">Check The Answer</string>
+
+    <string-array name="monster">
+        <item>Zombie</item>
+        <item>Golem</item>
+        <item>Skeleton</item>
+        <item>Devil</item>
+        <item>Unicorn</item>
+        <item>Dragon</item>
+        <item>Ogre</item>
+        <item>Birdman</item>
+        <item>Phoenix</item>
+        <item>Medusa</item>
+        <item>Mermaid</item>
+        <item>Vampire</item>
+        <item>Slime</item>
+        <item>Cockatrice</item>
+        <item>Fairy</item>
+        <item>Sadako</item>
+        <item>Nessie</item>
+        <item>Giant</item>
+        <item>Centaur</item>
+        <item>Worewolf</item>
+        <item>Kraken</item>
+        <item>Mummy</item>
+        <item>Griffin</item>
+        <item>Angel of Death</item>
+        <item>Ghost</item>
+        <item>Will-o\'-the-wisp</item>
+        <item>Hydra</item>
+    </string-array>
+
+    <string-array name="food">
+        <item>Pizza</item>
+        <item>Sushi</item>
+        <item>Tomato</item>
+        <item>Apple</item>
+        <item>Spaghetti</item>
+        <item>Fried Noodle</item>
+        <item>Ramen</item>
+        <item>Lollipop</item>
+        <item>Dumpling</item>
+        <item>Kimchi</item>
+        <item>Curry</item>
+        <item>Miso-soup</item>
+        <item>Fried Chicken</item>
+        <item>Frankfurt</item>
+        <item>Spring roll</item>
+        <item>Ice cream</item>
+        <item>Watermelon</item>
+        <item>Parfait</item>
+        <item>Hamburger</item>
+        <item>Waffle</item>
+        <item>Banana</item>
+        <item>Fried potato</item>
+        <item>Rice ball</item>
+        <item>Cake</item>
+        <item>Paella</item>
+        <item>Chocolate</item>
+        <item>Croissant</item>
+    </string-array>
+
+    <string-array name="fairyTail">
+        <item>Aladdin</item>
+        <item>Alice\'s Adventures in Wonderland</item>
+        <item>The Ant and the Grasshopper</item>
+        <item>Jack and the Beanstalk</item>
+        <item>Cinderella</item>
+        <item>Snow white</item>
+        <item>Three little pigs</item>
+        <item>North wind and the sun</item>
+        <item>Match girl</item>
+        <item>The Little Mermaid</item>
+        <item>Little Red Riding Hood</item>
+        <item>Rabbit and tortoise</item>
+        <item>Mercury and the Woodman</item>
+    </string-array>
+
+
+    <string-array name="vehicle">
+        <item>Rocket</item>
+        <item>Bicycle</item>
+        <item>Train</item>
+        <item>Bus</item>
+        <item>Segway</item>
+        <item>Bullet Train</item>
+        <item>Crane Car</item>
+        <item>Police car</item>
+        <item>Fire truck</item>
+        <item>Airplane</item>
+        <item>Ship</item>
+        <item>Submarine</item>
+        <item>Yacht</item>
+        <item>Horse-drawn carriage</item>
+        <item>Motorcycle</item>
+        <item>Helicopter</item>
+        <item>Unicycle</item>
+        <item>Truck</item>
+        <item>Limousine</item>
+        <item>Coffee cup</item>
+        <item>Osprey</item>
+        <item>Skateboard</item>
+        <item>Jet coaster</item>
+        <item>Canoe</item>
+        <item>Ferris wheel</item>
+        <item>Baloon</item>
+        <item>Elevator</item>
+    </string-array>
+
+    <string-array name="furniture">
+        <item>Table</item>
+        <item>Chest of drawers</item>
+        <item>Bed</item>
+        <item>Sofa</item>
+        <item>Bookshelf</item>
+        <item>Chair</item>
+        <item>Dresser</item>
+        <item>Carpet</item>
+        <item>Pillow</item>
+        <item>TV</item>
+        <item>Refrigerator</item>
+        <item>Kotatsu</item>
+        <item>Clock</item>
+        <item>Cupboard</item>
+        <item>Curtain</item>
+    </string-array>
+
+    <string-array name="machin">
+        <item>Smart Phone</item>
+        <item>TV</item>
+        <item>Washing machine</item>
+        <item>PC</item>
+        <item>Speaker</item>
+        <item>Refrigerator</item>
+        <item>Toaster</item>
+        <item>Microwave</item>
+        <item>Dishwasher</item>
+        <item>Stove</item>
+        <item>Pepper</item>
+        <item>Air cleaner</item>
+        <item>Humidifier</item>
+        <item>DVD recorder</item>
+        <item>GameCube</item>
+        <item>Wii</item>
+        <item>Switch</item>
+        <item>PSP</item>
+        <item>DS</item>
+        <item>Kettle</item>
+        <item>Hair dryer</item>
+        <item>MRT</item>
+        <item>Camera</item>
+        <item>Iron</item>
+        <item>Vending machin</item>
+    </string-array>
+
+    <string-array name="subculture">
+        <item>ONE PIECE</item>
+        <item>NARUTO</item>
+        <item>Attack on TITAN</item>
+        <item>Slam dunk</item>
+        <item>Doraemon</item>
+        <item>DEATH NOTE</item>
+        <item>Spirited Away</item>
+        <item>Castle in the Sky</item>
+        <item>Frozen</item>
+        <item>My Neighbor Totoro</item>
+        <item>Case Closed</item>
+        <item>Dragon ball</item>
+        <item>Toy Story</item>
+        <item>Monsters, Inc.</item>
+        <item>minions</item>
+    </string-array>
+
+    <string-array name="person">
+        <item>Prime Minister Abe</item>
+        <item>President Obama</item>
+        <item>President Trump</item>
+        <item>BEATLES</item>
+        <item>Owner of this mobile phone</item>
+        <item>Adolf Hitler</item>
+        <item>Director Hayao Miyazaki</item>
+        <item>Steve Jobs</item>
+        <item>Usain St. Leo Bolt</item>
+        <item>Michael Jackson</item>
+        <item>Pico Taro</item>
+        <item>Justin Bieber</item>
+        <item>Isac Newton</item>
+        <item>Leonardo da Vinci</item>
+        <item>Ichiro</item>
+    </string-array>
+
+    <string-array name="sports">
+        <item>Soccer</item>
+        <item>Baseball</item>
+        <item>Dodgeball</item>
+        <item>Rugby</item>
+        <item>Tennis</item>
+        <item>Swimming</item>
+        <item>Water polo</item>
+        <item>Hockey</item>
+        <item>Athletics</item>
+        <item>Badminton</item>
+        <item>Equestrian</item>
+        <item>Archery</item>
+        <item>Rock climbing</item>
+        <item>Sumo</item>
+        <item>Fencing</item>
+        <item>Judo</item>
+        <item>Lacrosse</item>
+        <item>Yacht</item>
+        <item>Bowling</item>
+        <item>Game of tag</item>
+        <item>Volleyball</item>
+        <item>Basketball</item>
+        <item>Dance</item>
+        <item>Table Tennis</item>
+        <item>Golf</item>
+    </string-array>
+
+    <string-array name="facility">
+        <item>Hospital</item>
+        <item>Shrine</item>
+        <item>School</item>
+        <item>Station</item>
+        <item>Shopping mall</item>
+        <item>Apartment house</item>
+        <item>Airport</item>
+        <item>Kindergarten</item>
+        <item>Park</item>
+        <item>Museum</item>
+        <item>Police Station</item>
+        <item>Hotel</item>
+        <item>Karaoke</item>
+        <item>Cafeteria</item>
+        <item>Senior citizens\' home</item>
+        <item>Court</item>
+        <item>Harbor</item>
+        <item>Convenience store</item>
+        <item>Castle</item>
+        <item>Casino</item>
+        <item>Amusement park</item>
+        <item>Zoo</item>
+        <item>Aquarium</item>
+        <item>Botanical garden</item>
+    </string-array>
+
+    <string-array name="fasion">
+        <item>Jacket</item>
+        <item>Socks</item>
+        <item>Necklace</item>
+        <item>Pants</item>
+        <item>Earrings</item>
+        <item>Dress shirt</item>
+        <item>Coat</item>
+        <item>Brassiere</item>
+        <item>Ring</item>
+        <item>Glasses</item>
+        <item>Watches</item>
+        <item>Bracelet</item>
+        <item>Leggings</item>
+        <item>Bag</item>
+        <item>Waist porch</item>
+        <item>Headband</item>
+        <item>Panties</item>
+        <item>Dress</item>
+        <item>Turtleneck</item>
+        <item>Sneakers</item>
+        <item>Jersey</item>
+        <item>Pajamas</item>
+        <item>Raincoat</item>
+        <item>Gloves</item>
+        <item>Scarf</item>
+        <item>Hat</item>
+    </string-array>
+
+    <string-array name="animal">
+        <item>Fox</item>
+        <item>Dog</item>
+        <item>Panda</item>
+        <item>Giraffe</item>
+        <item>Elephant</item>
+        <item>Cat</item>
+        <item>Crab</item>
+        <item>Dolphin</item>
+        <item>Whale</item>
+        <item>Blowfish</item>
+        <item>Turtle</item>
+        <item>Parakeet</item>
+        <item>Crow</item>
+        <item>Flog</item>
+        <item>Lizard</item>
+        <item>Beetle</item>
+        <item>Cockroach</item>
+        <item>Fly</item>
+        <item>Butterfly</item>
+        <item>Spider</item>
+        <item>Rabbit</item>
+        <item>Bee</item>
+        <item>Human</item>
+        <item>Jellyfish</item>
+        <item>Eagle</item>
+        <item>Seal</item>
+        <item>Bat</item>
+    </string-array>
+
+    <string-array name="allCategory">
+        <item>maginary creature</item>
+        <item>Food</item>
+        <item>Fairy tale</item>
+        <item>Vehicle</item>
+        <item>Furniture</item>
+        <item>Machine</item>
+        <item>Anime or Manga</item>
+        <item>Person or Group</item>
+        <item>Sports</item>
+        <item>Facility or Place</item>
+        <item>Fashion</item>
+        <item>Living thing</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

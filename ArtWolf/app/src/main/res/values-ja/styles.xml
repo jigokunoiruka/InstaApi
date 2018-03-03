@@ -1,0 +1,71 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="player1">
+        <item name="colorControlNormal">@color/player1</item>
+        <item name="colorControlActivated">@color/player1</item>
+        <item name="colorControlHighlight">@color/player1</item>
+    </style>
+
+    <style name="player2">
+        <item name="colorControlNormal">@color/player2</item>
+        <item name="colorControlActivated">@color/player2</item>
+        <item name="colorControlHighlight">@color/player2</item>
+    </style>
+
+    <style name="player3">
+        <item name="colorControlNormal">@color/player3</item>
+        <item name="colorControlActivated">@color/player3</item>
+        <item name="colorControlHighlight">@color/player3</item>
+    </style>
+
+    <style name="player4">
+        <item name="colorControlNormal">@color/player4</item>
+        <item name="colorControlActivated">@color/player4</item>
+        <item name="colorControlHighlight">@color/player4</item>
+    </style>
+
+    <style name="player5">
+        <item name="colorControlNormal">@color/player5</item>
+        <item name="colorControlActivated">@color/player5</item>
+        <item name="colorControlHighlight">@color/player5</item>
+    </style>
+
+    <style name="player6">
+        <item name="colorControlNormal">@color/player6</item>
+        <item name="colorControlActivated">@color/player6</item>
+        <item name="colorControlHighlight">@color/player6</item>
+    </style>
+
+    <style name="player7">
+        <item name="colorControlNormal">@color/player7</item>
+        <item name="colorControlActivated">@color/player7</item>
+        <item name="colorControlHighlight">@color/player7</item>
+    </style>
+
+    <style name="player8">
+        <item name="colorControlNormal">@color/player8</item>
+        <item name="colorControlActivated">@color/player8</item>
+        <item name="colorControlHighlight">@color/player8</item>
+    </style>
+
+    <style name="player9">
+        <item name="colorControlNormal">@color/player9</item>
+        <item name="colorControlActivated">@color/player9</item>
+        <item name="colorControlHighlight">@color/player9</item>
+    </style>
+
+    <style name="player10">
+        <item name="colorControlNormal">@color/player10</item>
+        <item name="colorControlActivated">@color/player10</item>
+        <item name="colorControlHighlight">@color/player10</item>
+    </style>
+
+</resources>
