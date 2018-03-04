@@ -35,6 +35,7 @@ public class ToDoDBAdapter {
     /**
      * DBの読み書き
      * openDB()
+     * 
      *
      * @return this 自身のオブジェクト
      */
