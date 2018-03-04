@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "234690922580",
+    "firebase_url": "https://penty-7c564.firebaseio.com",
+    "project_id": "penty-7c564",
+    "storage_bucket": "penty-7c564.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234690922580:android:9323be0ddf7c3721",
+        "android_client_info": {
+          "package_name": "com.naoki.jigokunoiruka.penty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "234690922580-ncstv8kg1q9gs742umm3l33k4ncei7gi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.naoki.jigokunoiruka.penty",
+            "certificate_hash": "a3596923c7429dbbbfd08ad8293db2b2a05649da"
+          }
+        },
+        {
+          "client_id": "234690922580-5ftjv4et11pg751nuv04dsnpd6gqcih9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_tvQ9pU40OYS_KoVsHlNFliHIlzXpOC4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "234690922580-5ftjv4et11pg751nuv04dsnpd6gqcih9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

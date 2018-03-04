@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Penty</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">People</string>
+    <string name="title_notifications">Setting</string>
+    <string name="title_todo">ToDo</string>
+</resources>
